@@ -18,7 +18,7 @@
                     "uom" : "cup",
                     "tags":[
                         {
-                            "container":"1 oz cup"
+                            "container":"tray 1"
                         }
                     ]
                 },
@@ -28,7 +28,7 @@
                     "uom" : "gram",
                     "tags":[
                         {
-                            "container":"1 oz cup"
+                            "container":"tray 1"
                         }
                     ]   
                 },
@@ -48,7 +48,7 @@
                     "uom" : "OZ",
                     "tags":[
                         {
-                            "container":"1 oz cup"
+                            "container":"20 oz cup"
                         }
                     ]
                 }
