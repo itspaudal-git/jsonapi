@@ -1,0 +1,58 @@
+{
+    "Chicago":{
+        "Menu":{
+            "Strawberry Pie":[
+                {
+                    "item":"Whipping Cream", 
+                    "weight":5,
+                    "uom" : "gram",
+                    "tags":[
+                        {
+                            "container":"1 oz cup"
+                        }
+                    ]
+                },
+                {
+                    "item":"Water" ,
+                    "weight":1,  
+                    "uom" : "cup",
+                    "tags":[
+                        {
+                            "container":"1 oz cup"
+                        }
+                    ]
+                },
+                {
+                    "item":"Cornstarch",
+                    "weight":9,
+                    "uom" : "gram",
+                    "tags":[
+                        {
+                            "container":"1 oz cup"
+                        }
+                    ]   
+                },
+                {
+                    "item":"Sugar",
+                    "weight":4,
+                    "uom" : "TBSP",
+                    "tags":[
+                        {
+                            "container":"1 oz cup"
+                        }
+                    ]
+                },
+                {
+                    "item":"fresh strawberries",
+                    "weight":20,
+                    "uom" : "OZ",
+                    "tags":[
+                        {
+                            "container":"1 oz cup"
+                        }
+                    ]
+                }
+        ]
+        }
+    }
+    }
